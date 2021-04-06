@@ -9,6 +9,8 @@ main()
     while (c != EOF)
     {
         putchar(c);
+        printf("%d\n", (c != EOF));
         c = getchar();
     }
+    printf("%d\n", EOF);
 }
