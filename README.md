@@ -10,7 +10,7 @@ Estou usando o livro [The C Programming Language 2nd Edition](https://www.amazon
 
 A propósito, de acordo com [este artigo do Medium](https://gourav.io/blog/setup-vscode-to-run-debug-c-cpp-code), você consegue usar a mesma configuração que eu estou usando no meu [Visual Studio Code](https://code.visualstudio.com/) para fazer os códigos que irei por aqui funcionarem.
 
-Abaixo, estão sinalizados todos os capítulos do livro que estamos cobrindo, os que estão marcados são os que já completamos e tem exemplos de códigos propostos resolvidos: 
+Abaixo, estão sinalizados todos os capítulos do livro que estamos cobrindo, os que estão marcados são os que já completamos e tem exemplos de códigos propostos resolvidos:
 
 - [ ] **Chapter 1 - A Tutorial Introduction**
   - [x] 1.1 Getting Started
@@ -19,10 +19,10 @@ Abaixo, estão sinalizados todos os capítulos do livro que estamos cobrindo, os
   - [x] 1.4 Symbolic Constants
   - [x] 1.5 Character Input and Output
     - [x] 1.5.1 File Copying
-    - [ ] 1.5.2 Character Counting
-    - [ ] 1.5.3 Line Counting
-    - [ ] 1.5.4 Word Counting
-  - [ ] 1.6 Arrays
+    - [x] 1.5.2 Character Counting
+    - [x] 1.5.3 Line Counting
+    - [x] 1.5.4 Word Counting
+  - [x] 1.6 Arrays
   - [ ] 1.7 Functions
   - [ ] 1.8 Arguments - Call By Value
   - [ ] 1.9 Character Arrays
