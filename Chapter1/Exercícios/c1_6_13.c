@@ -19,7 +19,7 @@ int main()
         }
         else if (c == ' ' || c == '\n' || c == '\t')
         {
-            wlen[i]++;
+            wlen[i]++; // É o mesmo que wlen[i] = wlen[i] + 1;
             i = 0;
         }
     }

@@ -23,8 +23,8 @@ Abaixo, estão sinalizados todos os capítulos do livro que estamos cobrindo, os
     - [x] 1.5.3 Line Counting
     - [x] 1.5.4 Word Counting
   - [x] 1.6 Arrays
-  - [ ] 1.7 Functions
-  - [ ] 1.8 Arguments - Call By Value
+  - [x] 1.7 Functions
+  - [x] 1.8 Arguments - Call By Value
   - [ ] 1.9 Character Arrays
   - [ ] 1.10 External Variables and Scope
 - [ ] **Chapter 2 - Types, Operations and Expressions**
