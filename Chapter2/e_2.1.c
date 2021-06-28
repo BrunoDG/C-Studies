@@ -20,9 +20,8 @@ int main()
     printf("int: %d, %d, %u\n", INT_MIN, INT_MAX, UINT_MAX);
     printf("short: %d, %d, %u\n", SHRT_MIN, SHRT_MAX, USHRT_MAX);
     printf("long: %ld, %ld, %lu", LONG_MIN, LONG_MAX, ULONG_MAX);
-    * /
 
-        for (char i = 2; i > 0; i = i * 2)
+    for (char i = 2; i > 0; i = i * 2)
     {
         printf("char = %d\n", i);
     }
