@@ -50,3 +50,9 @@ int main()
 // 1 0000 0000 - 111    = 1111 1001
 // +7 -> 0000 0111
 // -7 -> 1111 1001
+
+// Conversão de bases em C
+// oct 057 = dec 47 = hex 0x2F
+
+// Conversão de bases em Python
+// oct 0o57 = dec 47 = hex 0x2F
