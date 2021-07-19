@@ -6,6 +6,28 @@
 #define LEAP 1
 #define YEAR 31 + 28 + LEAP + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 + 30 + 31
 
+enum months
+{
+    JAN = 1,
+    FEB,
+    MAR,
+    ABR,
+    MAI,
+    JUN,
+    JUL,
+    AGO,
+    SET, // = 7, // Caso setembro seja o mês 7
+    OCT,
+    NOV,
+    DEC
+};
+
+enum boolean
+{
+    NO,
+    YES
+};
+
 int strlen_bg(char s[]);
 
 int main()
