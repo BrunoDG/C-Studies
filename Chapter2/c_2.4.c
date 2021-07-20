@@ -67,3 +67,8 @@ void showVal()
 // x && y -> x E y (operação AND / União) >> && -> Operador de União
 // x || y -> x OU y (Operação OR / Intersecção) >> || -> Operador de Intersecção
 //
+
+// Operadores Unários
+// ! -> NÃO / NOT
+// = -> Recebe - Get
+//

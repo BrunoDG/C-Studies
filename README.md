@@ -12,7 +12,7 @@ A propósito, de acordo com [este artigo do Medium](https://gourav.io/blog/setup
 
 Abaixo, estão sinalizados todos os capítulos do livro que estamos cobrindo, os que estão marcados são os que já completamos e tem exemplos de códigos propostos resolvidos:
 
-- [ ] **Chapter 1 - A Tutorial Introduction**
+- [x] **Chapter 1 - A Tutorial Introduction**
   - [x] 1.1 Getting Started
   - [x] 1.2 Variables and Arithmetic Expressions
   - [x] 1.3 The _for_ statement
@@ -26,14 +26,14 @@ Abaixo, estão sinalizados todos os capítulos do livro que estamos cobrindo, os
   - [x] 1.7 Functions
   - [x] 1.8 Arguments - Call By Value
   - [x] 1.9 Character Arrays
-  - [ ] 1.10 External Variables and Scope
+  - [x] 1.10 External Variables and Scope
 - [ ] **Chapter 2 - Types, Operations and Expressions**
-  - [ ] 2.1 Variable Names
-  - [ ] 2.2 Data Types and Sizes
-  - [ ] 2.3 Constants
-  - [ ] 2.4 Declarations
-  - [ ] 2.5 Arithmetic Operators
-  - [ ] 2.6 Relational and Logical Operators
+  - [x] 2.1 Variable Names
+  - [x] 2.2 Data Types and Sizes
+  - [x] 2.3 Constants
+  - [x] 2.4 Declarations
+  - [x] 2.5 Arithmetic Operators
+  - [x] 2.6 Relational and Logical Operators
   - [ ] 2.7 Type Conversions
   - [ ] 2.8 Increment and Decrement Operators
   - [ ] 2.9 Bitwise Operators
